@@ -6,3 +6,4 @@ snake.py is a simple game of snake 2. Allows you to go through walls.
 
 guess.py is a guessing game. The computer picks a number between 1 and 20, you have to guess what it is based on higher or lower prompts.
 
+guess1.py is a work in progress.
